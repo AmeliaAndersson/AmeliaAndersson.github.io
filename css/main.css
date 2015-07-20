@@ -1,0 +1,54 @@
+body{
+  background-image: url("../images/tealbackground.png");
+}
+
+.headline{
+  /* text-shadow: 1px 1px 1px #545454; */
+  margin-top: 75px;
+  color : white;
+  font-size: 46px;
+}
+
+.information{
+  display: inline-block;
+}
+
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.fa{
+  color: white;
+}
+
+.links{
+  margin-top: 25px;
+}
+
+a:hover{
+  color : white;
+  text-decoration: none;
+  border-bottom: 3px white dotted;
+}
+
+.container a{
+  color : white;
+  text-decoration: none;
+  border-bottom: 3px white dotted;
+}
+
+.diamond{
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.subText{
+  color : white;
+  font-size: 20px;
+}
+
+.calibri {
+  font-family: Alegreya Sans;
+}
